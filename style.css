@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f2f5;
+    text-align: center;
+    padding: 50px;
+}
+
+.quote-card {
+    background-color: white;
+    border: 1px solid #ddd;
+    padding: 30px;
+    width: 400px;
+    margin: 0 auto;
+}
+
+.quote-icon {
+    font-size: 50px;
+    color: #5c6bc0;
+}
+
+.quote-text {
+    font-size: 18px;
+    color: #333;
+}
+
+.quote-author {
+    color: #777;
+    font-weight: bold;
+}
